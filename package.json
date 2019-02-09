@@ -1,0 +1,31 @@
+{
+  "name": "ga-optout-event-handler",
+  "version": "1.0.0",
+  "description": "Provide Google Analytics opt-out event handler functions",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kubosho/ga-optout-event-handler.git"
+  },
+  "keywords": [
+    "Google Analytics",
+    "opt-out"
+  ],
+  "author": "kubosho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubosho/ga-optout-event-handler/issues"
+  },
+  "homepage": "https://github.com/kubosho/ga-optout-event-handler#readme",
+  "devDependencies": {
+    "ava": "^1.2.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.1"
+  }
+}
